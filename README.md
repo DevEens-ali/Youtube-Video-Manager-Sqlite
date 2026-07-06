@@ -3,7 +3,7 @@ A beginner-friendly Python + SQLite project demonstrating CRUD (Create, Read, Up
 
 
 
-# 📺 YouTube Video Manager (Python + SQLite)
+#  YouTube Video Manager (Python + SQLite)
 
 A simple command-line based **YouTube Video Manager** built using **Python** and **SQLite**. This project demonstrates the implementation of **CRUD (Create, Read, Update, Delete)** operations with a local database.
 
@@ -11,26 +11,26 @@ It is designed as a beginner-friendly project to understand how Python interacts
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📋 View all videos
-* ➕ Add a new video
-* ✏️ Update an existing video
-* 🗑️ Delete a video
-* ✅ Success messages after each operation
-* ❌ Handles invalid IDs while updating or deleting
-* 📂 Displays a message when the database is empty
+*  View all videos
+*  Add a new video
+*  Update an existing video
+*  Delete a video
+*  Success messages after each operation
+*  Handles invalid IDs while updating or deleting
+*  Displays a message when the database is empty
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * SQLite3 (Built-in Python Module)
 
 ---
 
-## 📂 Database Structure
+##  Database Structure
 
 **Table: `videos`**
 
@@ -56,7 +56,7 @@ Welcome to the YouTube Video Manager
 
 ---
 
-## 📚 CRUD Operations
+##  CRUD Operations
 
 ### Create
 
@@ -76,7 +76,7 @@ Remove a video using its ID.
 
 ---
 
-## 🧠 Concepts Practiced
+##  Concepts Practiced
 
 * Functions
 * Loops
@@ -90,7 +90,7 @@ Remove a video using its ID.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository.
 
@@ -110,7 +110,7 @@ python UtubeWithdatabase.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Search videos by name
 * Sort videos
@@ -122,12 +122,12 @@ python UtubeWithdatabase.py
 
 ---
 
-## 🎯 Learning Purpose
+##  Learning Purpose
 
 This project was created for learning purposes to understand how Python performs CRUD operations using SQLite. It serves as a foundation for building larger applications such as Todo Lists, Library Management Systems, Student Management Systems, and Web Applications.
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
-Give it a ⭐ on GitHub and feel free to fork it for learning and improvements.
+Give it a  on GitHub and feel free to fork it for learning and improvements.
